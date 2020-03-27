@@ -23,7 +23,7 @@
         </Path>
         
         <!-- Minutes: -->
-        <Path Data="M 240 170 L260,170 L255,20 L 250,15 L245,20 Z" Fill="Black" Panel.ZIndex="2" RenderTransformOrigin="0.5,0.5">
+        <Path Data="M 240 170 L260,170 L255,20 L 250,15 L245,20 Z" Fill="DarkBlue" Panel.ZIndex="2" RenderTransformOrigin="0.5,0.5">
             <Path.RenderTransform>
                 <TransformGroup>
                     <RotateTransform x:Name="RotationMinute" Angle="60"/>
